@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503863571338",
+    "project_id": "stellar-aleph-365809",
+    "storage_bucket": "stellar-aleph-365809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503863571338:android:986db016b5f949400d0e73",
+        "android_client_info": {
+          "package_name": "com.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503863571338-uunucaaka0sokng0sp6jfhtrf4vvcsj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPGSX_7cSRQIYZZto3g6rJK9rKRra_7jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503863571338-uunucaaka0sokng0sp6jfhtrf4vvcsj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
